@@ -3,7 +3,7 @@ from Banners import Banner_Printer
 from Shipping_storage import All_Shipping_Locations
 from Cart import Cart
 from Inventory import Avaliable,load_item_database,load_shipping_database
-
+print("starting")
 
 load_item_database()
 load_shipping_database()

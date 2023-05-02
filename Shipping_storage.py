@@ -1,7 +1,7 @@
 from Banners import Banner_Printer
 from enum import Enum
 from Lego_Searching_Mechanics import Search_Mech_All_Legos
-
+print("Hello")
 #All shipping locations#
 class All_Shipping_Locations():
     #ALL shippinh Menu actions#

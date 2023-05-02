@@ -61,6 +61,7 @@ class Avaliable(Search_Mech_All_Legos):
 
 #function that loads all sets CSV data and for each set creating an Item OOB#
 def load_item_database():
+    print("start1")
     ListOfItems = []
     with open("LegoItems.csv" , "r") as F:
         for item in F:
