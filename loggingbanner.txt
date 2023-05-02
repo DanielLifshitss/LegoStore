@@ -1,0 +1,12 @@
+
+-----------------------------------------
+~Welcome To Isreal's Official LEGO Shop!~
+-----------------------------------------
+Enter Your Option(Press the Key):
+1)Brows Themes
+2)Country Shipping
+3)Search Spesific Item
+4)Avaliable/Not Avaliable Items
+5)My Cart
+6)Close Website
+-----------------------------------------

@@ -1,0 +1,109 @@
+ ID,Theme,Set Name,Set Number,Pieces,Age,Price in Dollars,Prices in VIP points,Items in stock,Is Item Avaliable
+1,Harry Potter,Hogwarts,99112,6000,15,400,2000,5,yes
+2,Harry Potter,Hogwarts1,99112,6000,15,5468,2000,5,yes
+3,Harry Potter,Hogwarts2,99112,6000,15,897,2000,5,yes
+4,Harry Potter,Hogwarts3,99112,6000,15,156,2000,5,yes
+5,Indiana Jones,Plane,22548,1523,12,150,1350,11,yes
+6,Batman,Batcave,875645,2153,16,249,1680,0,no
+7,Ninjago,Land Bounty,70677,1178,9,129.99,1000,1,Yes
+8,Friends,Funny Octopus Ride,41373,324,6,39.99,400,10,Yes
+9,Marvel Super Heroes,Avengers Ultimate Quinjet,76126,838,8,79.99,800,6,Yes
+10,Creator,Expert Bookshop,10270,2504,16,179.99,1500,0,No
+11,Technic,Cargo Plane,42108,1398,7,139.99,1200,2,Yes
+12,Architecture,Tokyo Skyline,21051,547,16,59.99,600,3,Yes
+13,Ideas,Ship in a Bottle,21313,962,12,69.99,700,0,No
+14,Disney,Minnie Mouse's Ice Cream Shop,10773,100,4,19.99,200,14,Yes
+15,City,Police Station,60246,743,5,99.99,800,8,Yes
+16,Star Wars,Death Star,75159,4016,14,499.99,4000,0,No
+17,Harry Potter,Diagon Alley,75978,5544,16,399.99,3200,0,No
+18,Ninjago,Fire Fang,70674,463,8,39.99,400,7,Yes
+19,Friends,Heartlake City Resort,41347,1017,7,99.99,800,5,Yes
+20,Marvel Super Heroes,Hulk Helicopter Rescue,76144,482,8,59.99,600,0,No
+21,Creator,Expert Corner Garage,10264,2569,16,199.99,1600,0,No
+22,Ninjago,Spinjitzu Slam - Lloyd,70681,70,7,9.99,100,7,Yes
+23,Ninjago,Land Bounty,70677,1178,9,129.99,1000,1,Yes
+24,Star Wars,Death Star,10188,3803,16,599.99,5000,2,Yes
+25,Harry Potter,Hogwarts Express,75955,801,8,79.99,600,5,Yes
+26,City,Fire Station,60215,509,5,59.99,450,3,Yes
+27,Ninjago,Dragon Pit,70655,1660,14,129.99,1000,10,Yes
+28,Friends,Heartlake City Resort,41347,1017,7,99.99,800,7,Yes
+29,Marvel Super Heroes,Avenjet Space Mission,76049,523,14,69.99,500,0,No
+30,Creator,Expert Assembly Square,10255,4002,16,279.99,2500,1,Yes
+31,Technic,Porsche 911 GT3 RS,42056,2704,16,299.99,3000,0,No
+32,Architecture,Statue of Liberty,21042,1685,16,119.99,1000,12,Yes
+33,Ideas,Ship in a Bottle,21313,962,12,69.99,600,8,Yes
+34,Disney,Disney Castle,71040,4080,16,349.99,3500,0,No
+35,City,Passenger Train,60197,677,6,159.99,1200,4,Yes
+36,Star Wars,X-wing Starfighter,75218,730,14,79.99,700,0,No
+37,Harry Potter,Hogwarts Great Hall,75954,878,9,99.99,800,11,Yes
+38,Ninjago,City Docks,70657,3553,12,229.99,2000,6,Yes
+39,Friends,Stephanie's House,41314,622,6,69.99,500,0,No
+40,Marvel Super Heroes,Spider-Man: Far From Home Stark Jet and the Drone Attack,76130,504,8,69.99,600,14,Yes
+41,Creator,Expert Taj Mahal,10256,5923,16,369.99,3500,2,Yes
+42,Technic,Bugatti Chiron,42083,3599,16,349.99,3500,1,Yes
+43,Architecture,Sydney Opera House,21032,562,12,79.99,700,9,Yes
+44,Ideas,The Flintstones,21316,748,10,59.99,600,3,Yes
+45,Disney,Toy Story 4 RV Vacation,10769,178,4,34.99,350,17,Yes
+46,City,Arctic Mobile Exploration Base,60195,786,7,119.99,1000,2,Yes
+47,Star Wars,Imperial Star Destroyer,75252,4784,16,699.99,7000,0,No
+48,Harry Potter,Hagrid's Hut: Buckbeak's Rescue,75947,496,8,59.99,500,18,Yes
+49,Ninjago,Monastery of Spinjitzu,70670,1070,9,79.99,700,7,Yes
+50,Friends,Andrea's Talent Show,41368,492,7,49.99,400,13,Yes
+51,Heroes,Avengers Compound Battle,76131,699,8,99.99,800,6,Yes
+52,Creator,Expert Parisian Restaurant,10243,2469,16,159.99,1500,4,Yes
+53,Technic,Liebherr R 9800 Excavator,42100,4108,12,449.99,4000,0,No
+54,Architecture,Empire State Building,21046,1767,16,129.99,1200,8,Yes
+55,Ideas,The Beatles Yellow Submarine,21306,553,10,59.99,600,5,Yes
+56,Disney,Anna and Elsa's Frozen Playground,10736,94,5,19.99,200,20,Yes
+57,City,Downtown Fire Brigade,60216,943,6,99.99,800,0,No
+58,Star Wars,AT-AT,75288,1267,10,159.99,1200,3,Yes
+59,Harry Potter,Knight Bus,75957,403,8,39.99,400,9,Yes
+60,Ninjago,Jay's Storm Fighter,70668,490,9,39.99,400,14,Yes
+61,Friends,Heartlake City Amusement Pier,41375,1251,8,129.99,1000,0,No
+62,Marvel Super Heroes,Iron Man Hall of Armor,76125,524,7,59.99,600,8,Yes
+63,Creator,Expert Detective's Office,10246,2262,16,159.99,1500,6,Yes
+64,Technic,Porsche 911 RSR,42096,1580,10,149.99,1200,2,Yes
+65,Architecture,United States Capitol Building,21030,1032,12,99.99,800,5,Yes
+66,Ideas,Doctor Who,21304,623,10,59.99,600,0,No
+67,Disney,Cinderella's Dream Castle,41154,585,6,69.99,500,11,Yes
+68,City,Mountain Police Headquarters,60174,663,6,89.99,700,1,Yes
+69,Star Wars,Slave I,75060,1996,16,199.99,2000,0,No
+70,Harry Potter,The Rise of Voldemort,75965,184,7,19.99,200,16,Yes
+71,Ninjago,Spinjitzu Dojo,70680,1070,8,89.99,700,4,Yes
+72,Friends,Mia's Tree House,41335,351,12,29.99,300,7,Yes
+73,Marvel Super Heroes,Spider-Man's Mech vs. Venom,76115,604,8,49.99,500,0,No
+74,Creator,Expert Roller Coaster,10261,4124,16,379.99,3500,0,No
+75,Technic,4x4 X-treme Off-Roader,42099,958,11,249.99,2000,2,Yes
+76,Architecture,The White House,21054,1483,18,99.99,800,10,Yes
+77,Ideas,Wall-E,21303,677,12,59.99,600,3,Yes
+78,Disney,Rapunzel's Castle Bedroom,41156,156,5,19.99,200,14,Yes
+79,City,Fire Ladder Truck,60107,214,5,24.99,250,9,Yes
+80,Star Wars,Tie Fighter,75211,519,14,69.99,600,0,No
+81,Friends,Olivia's Cupcake Café,41366,335,6,29.99,300,8,Yes
+82,Marvel Super Heroes,Thor's Weapon Quest,76102,223,12,24.99,200,0,No
+83,Creator,Expert Bookshop,10270,2504,16,179.99,1500,0,No
+84,Technic,Volvo Concept Wheel Loader ZEUX,42081,1167,10,149.99,1200,0,No
+85,Architecture,Statue of Liberty,21042,1685,16,119.99,1000,7,Yes
+86,Ideas,Old Fishing Store,21310,2049,12,149.99,1400,0,No
+87,Disney,Mickey Mouse & Minnie Mouse,43179,1739,18,179.99,1500,2,Yes
+88,City,Passenger Train,60197,677,6,159.99,1200,6,Yes
+89,Star Wars,X-Wing Starfighter,75218,731,14,89.99,800,0,No
+90,Harry Potter,Beauxbatons' Carriage,75958,430,8,49.99,500,3,Yes
+91,Ninjago,Stormbringer,70652,493,8,39.99,400,0,No
+92,Friends,Heartlake City Pet Center,41345,474,6,59.99,600,4,Yes
+93,Marvel Super Heroes,Thanos: Ultimate Battle,76107,674,14,69.99,700,0,No
+94,Creator,Downtown Diner,10260,2480,16,169.99,1400,0,No
+95,Technic,Remote-Controlled Stunt Racer,42095,324,9,99.99,800,0,No
+96,Architecture,Shanghai,21039,597,12,59.99,600,2,Yes
+97,Ideas,Ship in a Bottle,21313,962,12,69.99,700,0,No
+98,Disney,Aladdin and Jasmine's Palace Adventures,41161,193,5,24.99,200,10,Yes
+99,City,Forest Tractor,60181,174,5,19.99,200,17,Yes
+100,Star Wars,AT-ST Raider,75254,540,8,49.99,500,5,Yes
+101,Harry Potter,Hogwarts Clock Tower,75948,922,9,89.99,900,2,Yes
+102,Ninjago,Land Bounty,70677,1178,9,129.99,1200,0,No
+103,Friends,Heartlake City Resort,41347,1017,7,99.99,900,0,No
+104,Marvel Super Heroes,Hulkbuster Smash-Up,76104,375,14,29.99,300,11,Yes
+105,Creator,Ferris Wheel,10247,2464,16,199.99,1500,0,No
+106,Technic,6x6 All Terrain Tow Truck,42070,1862,16,289.99,2400,0,No
+107,Architecture,Sydney,21032,361,12,29.99,300,4,Yes
+108,Ideas,The Flintstones,21316,748,10,59.99,600,0,No
